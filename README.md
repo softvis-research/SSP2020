@@ -1,4 +1,5 @@
-# Reproduction package for the paper "Graph-Based Performance Analysis at System- and Application-Level".
+# SSP2020 
+## Reproduction package for the paper "Graph-Based Performance Analysis at System- and Application-Level"
 
 Please, click on the binder badge to start the mybinder environment. Then you can run the jupyter notebooks (1. Performance analysis at application-level.ipynb and 2. Performance analysis at system-level.ipynb) and replicate the analyses.
 
